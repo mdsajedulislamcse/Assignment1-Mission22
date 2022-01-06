@@ -1,0 +1,197 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.flexible-container {
+    display: flex;
+    margin-left: 125px;
+}
+.section-one img {
+    width: 450px;
+}
+.heading-part {
+    width: 50%;
+    margin-right: 200px;
+    font-family: 'Bitter', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.image-part {
+    width: 50%;
+    margin-left: 80px;
+}
+.heading-left-border {
+    border-left: 5px solid tomato;
+    padding-left: 15px;
+}
+h1, h2 {
+    font-size: 2.5rem;
+}
+.orange-color {
+    color: orange;
+}
+.para-font-size {
+    font-size: 1rem;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+}
+/* SECTION ONE END */
+
+
+/* SECTION TWO START */
+.flexible-container {
+    display: flex;
+    margin-left: 125px;
+    margin-right: 100px;
+}
+.mission-item {
+    width: 325px;
+    height: 325px;
+    padding: 20px;
+    font-size: 1.1rem;
+    border-radius: 20px;
+    text-align: justify;
+    background-color: rgba(0, 60, 255, 0.137);
+    box-shadow: 10px 15px 30px gray;
+}
+.vission-item {
+    width: 325px;
+    height: 325px;
+    padding: 20px;
+    font-size: 1.1rem;
+    margin-left: 25px;
+    border-radius: 20px;
+    text-align: justify;
+    background-color: rgba(255, 0, 128, 0.041);
+    box-shadow: 10px 15px 30px gray;
+}
+.goals-item {
+    width: 325px;
+    height: 325px;
+    padding: 20px;
+    font-size: 1.1rem;
+    margin-left: 25px;
+    border-radius: 20px;
+    text-align: justify;
+    background-color: rgba(255, 251, 4, 0.082);
+    box-shadow: 10px 15px 30px gray;
+}
+h3{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Bitter', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+h4 {
+    font-size: 1.5rem;
+}
+.mission [vission], [goals], img {
+    width: 110px;
+}
+/* SECTION TWO END */
+
+
+/* SECTION THREE START */
+.flexible-container {
+    display: flex;
+    margin-left: 125px;
+    margin-top: 100px;
+}
+.codding-image img {
+    width: 380px;
+}
+.developer {
+    margin-left: 80px;
+    margin-top: 80px;
+    text-align: justify;
+}
+h5 {
+    font-size: 2.8rem;
+    margin: 0;
+}
+.develop-para {
+    font-size: 1.2rem;
+}
+/* SECTION THREE END */
+
+
+/* SECTION FOUR START */
+.flexible-container {
+    display: flex;
+    margin-left: 125px;
+    margin-top: 100px;
+}
+h6{
+    font-size: 3rem;
+    margin: 0;
+}
+.project {
+    margin-left: 100px;
+}
+.section-four img {
+    width: 380px;
+}
+.known-our {
+    margin-right: 100px;
+    text-align: justify;
+    margin-top: 80px;
+}
+.global-comunity {
+    font-size: 1.2rem;
+}
+/* SECTION FOUR END */
+
+/* SECTION FIVE START */
+.section-five {
+    margin-top: 100px;
+}
+.real-hero {
+    text-align: center;
+}
+.flexible-container {
+    display: flex;
+    margin-top: 80px;
+}
+.section-five img {
+    width: 380px;
+}
+.introduce-part{
+    margin-left: 100px;
+    text-align: justify;
+}
+.intro-heading {
+    font-size: 3rem;
+    font-family: 'Bitter', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.real-hero-skill {
+    font-size: 1.2rem;
+}
+/* SECTION FIVE END */
+
+/* FOOTER START */
+.mission-footer {
+    background-color: black;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+.white-color {
+    color: white;
+}
+.red-color {
+    color: tomato;
+}
+/* FOOTER END */
